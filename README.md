@@ -21,7 +21,7 @@ The libraries required to run all the code in this project have been documented 
 I am very interested in Stackoverflow’s developer survey data from 2017, and intend to make targeted exploration. I will study these data to clarify the following questions:
 
 1. How many of the people involved in the survey are programming lover?
-2. For professional developers, is there a correlation between their programming hobby and their programming experience or number of years of coded job?
+2. For professional developers, is there a correlation between their programming hobby and their programming experience or the number of years of coded job?
 3. For professional developers, are their programming hobby related to their job satisfaction or career satisfaction?
 4. Is there a clear correlation between programming hobby and salary?
 
