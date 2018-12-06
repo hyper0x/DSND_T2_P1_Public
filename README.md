@@ -35,7 +35,16 @@ In addition, the project also contains some Python source files. The code in the
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@hyper0x/is-it-really-important-for-professional-developers-to-love-programming-a68f0d5373fb).
+Through analysis of the data, we can come to the following conclusions:
+
+1. Most professional developers love programming, but only a few have contributed to open source projects.
+2. Loving programming does not allow professional developers to stay in programming jobs for longer.
+3. Professional programmers who love programming are more likely to get a sense of satisfaction in their careers, especially for those who are willing to be contributors to open source projects.
+4. For professional developers, actively contributing to open source projects can have a positive impact on their salaries, but the impact is not obvious.
+
+In short, loving programming is not that important to professional developers. It's right for their careers and their employers. However, it is always beneficial to actively participate in open source projects.
+
+More detailed descriptions of these findings are available in [my blog post](https://medium.com/@hyper0x/is-it-really-important-for-professional-developers-to-love-programming-a68f0d5373fb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
